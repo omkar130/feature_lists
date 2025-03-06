@@ -5,5 +5,5 @@ Save Video, Liked Video, Video Delete and Channel Delete for Django projects.
 ## Installation
 
 ```bash
-pip install feature_lists
-# feature_lists
+pip install feature-lists
+# feature-lists
